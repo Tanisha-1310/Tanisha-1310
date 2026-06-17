@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tanisha Bagda! 👋
 ### 🕸️ Website Developer / Frontend & Backend Engineer
 
 I build responsive, high-performance, and user-centric web applications. I love turning complex problems into elegant, clean code, constantly exploring modern frameworks and optimization techniques to deliver the best user experience.
